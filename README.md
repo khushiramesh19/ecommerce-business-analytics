@@ -74,10 +74,7 @@ Ecommerce-Business-Analytics/
 │   └── dashboard_guide.md       # Recruiter-grade Power BI guide & DAX dictionary
 │
 ├── insights/
-│   └── business_insights.md     # 8-10 Business Insights & 5 Strategic Recommendations
-│
-├── interview/
-│   └── interview_questions.md  # 20 QA items + 30s/1m/2m project pitch scripts
+│   └── business_insights.md     # 8-10 Business Insights & 5 Strategic Recommendation
 │
 ├── README.md                    # Main repository documentation
 ├── START_HERE.md                # Quickstart execution guide
