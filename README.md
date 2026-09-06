@@ -46,8 +46,7 @@ Excel Financial & Pivot Modeling
 Power BI Executive Dashboard & DAX
           ↓
 Business Insights & Strategic Recommendations
-          ↓
-Recruiter & Interview Preparation Framework
+
 ```
 
 ---
