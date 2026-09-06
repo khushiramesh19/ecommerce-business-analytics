@@ -122,7 +122,3 @@ Ecommerce-Business-Analytics/
 - **Customer Feedback:** Returns and customer review sentiment data could be incorporated for holistic product evaluation.
 
 ---
-
-## 👤 Author & Contact
-- **Role:** Associate Business Analyst / Data Analyst candidate
-- **Portfolio Focus:** Business problem solving, SQL, Python, Excel, Power BI, Strategic Communication.
