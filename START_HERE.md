@@ -49,12 +49,4 @@ Welcome! This is an end-to-end **E-Commerce Business Analytics** portfolio proje
 2. Follow `powerbi/dashboard_guide.md` to import `data/cleaned_data.csv`.
 3. Build DAX measures and configure slicers & visuals matching the executive grid layout.
 
-### Step 6: Interview Preparation
-1. Review `insights/business_insights.md` to memorize 3 key business recommendations.
-2. Practice project pitches and technical QA in `interview/interview_questions.md`.
 
----
-
-## 💡 Recommended Active Workspace Path
-Please set your active workspace directory to:
-`C:\Users\Khushi Ramesh\Desktop\E-Commerce Business Analytics`
